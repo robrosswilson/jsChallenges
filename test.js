@@ -1,4 +1,4 @@
-// xxxx
+// Beginner Activities
 
 console.log("hello".length)
 console.log("Hello, what is your name?".length)
