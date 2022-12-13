@@ -123,14 +123,13 @@ for (let i=0; i < films.length; i++){
     console.log(films[i])
 }
 
-for (let i=2; i < 3; i++){
-    if (films[2] == "Ghostbusters")[
+if (films[2] == "Ghostbusters")[
         console.log("Yay it's Ghostbusters.")
-    ]
-    else[
+]
+else[
         console.log("Boo! We want Ghostbusters!")
-    ]
-}
+]
+
 
 // Activity 6
 
